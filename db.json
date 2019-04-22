@@ -1,0 +1,20 @@
+{
+"EntityTypeMedia":[
+     {
+        "ETM_Id":1,
+        "ETM_Name":"Cultural"
+     },
+     {
+        "ETM_Id":2,
+        "ETM_Name":"Activities"
+     },
+     {
+        "ETM_Id":3,
+        "ETM_Name":"Business"
+     },
+     {
+        "ETM_Id":4,
+        "ETM_Name":"Offers"
+     }
+  ]
+}
