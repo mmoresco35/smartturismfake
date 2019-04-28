@@ -1,20 +1,20 @@
 {
-"EntityTypeMedia":[
+"StCulturalitemscategories":[
      {
-        "ETM_Id":1,
-        "ETM_Name":"Cultural"
+        "CicId":1,
+        "CicName":"Cultural"
      },
      {
-        "ETM_Id":2,
-        "ETM_Name":"Activities"
+        "CicId":2,
+        "CicName":"Activities"
      },
      {
-        "ETM_Id":3,
-        "ETM_Name":"Business"
+        "CicId":3,
+        "CicName":"Business"
      },
      {
-        "ETM_Id":4,
-        "ETM_Name":"Offers"
+        "CicId":4,
+        "CicName":"Offers"
      }
   ]
 }
