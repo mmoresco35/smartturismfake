@@ -16,5 +16,81 @@
         "CicId":4,
         "CicName":"Offers"
      }
+  ],
+  "StCulturalitems": [
+    {
+      "id": 1,
+      "photo":
+        "http://www.turismoenaranjuez.com/wp-content/uploads/2017/05/palacio-real.jpg",
+      "type": "VISIT",
+      "title": "Fachada principal del Palacio Real de Aranjuez",
+      "location": "Aranjuez, España",
+      "price": 60,
+      "priceType": "por persona",
+      "stars": 29,
+      "color": '#484848'
+    },
+    {
+      "id": 2,
+      "photo":
+        "http://www.turismoenaranjuez.com/wp-content/uploads/2017/05/jardin-isla-1.jpg",
+      "type": "VISIT",
+      "title": "Imagen general del interior del Jardín de la Isla",
+      "location": "Aranjuez, España",
+      "price": 70,
+      "priceType": "por persona",
+      "stars": 4,
+      "color": '#d93900'
+    },
+    {
+      "id": 3,
+      "photo":
+        "http://www.turismoenaranjuez.com/wp-content/uploads/2017/05/labrador.jpg",
+      "type": "VISIT",
+      "title":
+        "Construido por petición de Carlos IV, en este palacete se conserva uno de los conjuntos neoclásicos más importantes de Europa.",
+      "location": "Aranjuez, España",
+      "price": 47,
+      "priceType": "por persona",
+      "stars": 30,
+      "color": '#000000'
+    },
+    {
+      "id": 4,
+      "photo":
+        "http://www.turismoenaranjuez.com/wp-content/uploads/2017/05/jardin-1.jpg",
+      "type": "VISIT",
+      "title":
+        "Este es el jardín más grande de los que se encuentran en Aranjuez con un perímetro de 7 km y 150 hectáreas de extensión.",
+      "location": "Aranjuez, España",
+      "price": 57,
+      "priceType": "por persona",
+      "stars": 70,
+      "color": '#ad8763'
+    },
+    {
+      "id": 5,
+      "photov:
+        "http://www.turismoenaranjuez.com/wp-content/uploads/2017/05/faluas-1.jpg",
+      "type": "VISIT",
+      "title": "Surf Bondi's waves, then eat & drink like a local",
+      "location": "Aranjuez, España",
+      "price": 61,
+      "priceType": "por persona",
+      "stars": 66,
+      "color": '#4995cd'
+    },
+    {
+      "id": 6,
+      "photo":
+        "http://www.turismoenaranjuez.com/wp-content/uploads/2017/05/parterre-1.jpg",
+      "type": "VISIT",
+      "title": "A drawing/walking tour in Montmartre",
+      "location": "Aranjuez, España",
+      "price": 55,
+      "priceType": "por persona",
+      "stars": 15,
+      "color": '#7d4918'
+    }
   ]
 }
